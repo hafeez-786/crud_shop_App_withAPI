@@ -1,0 +1,32 @@
+{
+  "details": [
+    {
+      "fname": "Hafeez Sayed",
+      "email": "hafeez@test.com",
+      "phone": "0000000000",
+      "country": "India",
+      "id": 1
+    },
+    {
+      "fname": "Umair Hafeez Sayed",
+      "email": "umair@test.com",
+      "phone": "3256487920",
+      "country": "USA",
+      "id": 4
+    },
+    {
+      "fname": "Manju bhai",
+      "email": "manju@test.com",
+      "phone": "65239874120",
+      "country": "Goa",
+      "id": 6
+    },
+    {
+      "fname": "John Doe",
+      "email": "john@example.com",
+      "phone": "2356458976",
+      "country": "Russia",
+      "id": 7
+    }
+  ]
+}
